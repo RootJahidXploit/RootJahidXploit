@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Root Jahid</h1>
-<h3 align="center">👹 I'm Black Hat Hacker From Bangladesh 👹</h3>
+<h3 align="center">👹 I'm Black Hat Hacker 👹</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rootjahidxpolit&label=Profile%20views&color=0e75b6&style=flat" alt="rootjahidxpolit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootjahidxpolit" alt="rootjahidxpolit" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootjahidxploit" alt="rootjahidxploit" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
