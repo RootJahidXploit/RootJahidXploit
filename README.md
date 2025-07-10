@@ -1,25 +1,48 @@
-<h1 align="center">Hi 👋, I'm Root Jahid</h1>
-<h3 align="center">👹 I'm Black Hat Hacker 👹</h3>
+<p align="center"><img src="https://img.shields.io/badge/I'%20am BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+</i></b></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rootjahid&label=Profile%20views&color=0e75b6&style=flat" alt="rootjahid" /> </p>
+<h3 align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootjahid" alt="rootjahid" /></a> </p>
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">&nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙵𝙻𝙰𝙼𝙴-𝚂𝙷𝙰𝙽𝚃𝙾 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [t.me/RootJahid](t.me/RootJahid)
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanto75o&label=Profile%20views&color=0e75b6&style=flat" alt="shanto75o" /> </p>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙵𝙻𝙰𝙼𝙴+𝚂𝙷𝙰𝙽𝚃𝙾;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅𝙴+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
+  
+  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rootjahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rootjahid" height="30" width="40" /></a>
-<a href="https://fb.com/rootjahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rootjahid" height="30" width="40" /></a>
+<p align="center"> 
+
+ 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+
+ <img src="https://profile-counter.glitch.me/shanto75o/count.svg" />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rootjahid&show_icons=true&locale=en&layout=compact" alt="rootjahid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rootjahid&show_icons=true&locale=en" alt="rootjahid" /></p>
+![68747470733a2f2f64656e766572636f646572312d61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170682f3f757365726e61 31463232324526636f6c6f723d463844383636266c696e653d46383544374626706f696e743d46464646464626686964655f626f726465723d74727565](https://user-images.githubusercontent.com/104133480/192364816-d42142c3-0ccc-43ff-8df9-a26b6fd3bb38.svg)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rootjahid&" alt="rootjahid" /></p>
+
+
+
+
+
+![md7Oqrf](https://user-images.githubusercontent.com/104133480/192360756-2582d710-348b-4230-b4de-86ab175974c0.gif)
+
+
+
+
+![68747470733a2f2f6a2e746f7034746f702e696f2f705f31393636736b677738302e6a7067](https://user-images.githubusercontent.com/104133480/192368180-815e9a20-3494-4f4c-8085-fb7755c46bfa.jpeg)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanto75o&show_icons=true&locale=en&layout=compact" alt="shanto75o" /></p>
+
+![68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d5249444f592d3430342d4359424552267468656d653d6d6f6e6f6b6169](https://user-images.githubusercontent.com/104133480/192365614-db4f2909-30e3-49ac-ade6-f2c504b922cd.svg)
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanto75o&show_icons=true&locale=en" alt="shanto75o" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanto75o&" alt="shanto75o" /></p>
