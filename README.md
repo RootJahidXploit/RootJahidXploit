@@ -23,7 +23,7 @@ func main() {
   var me = new(Person)
   
   me.name     = "JAHID TAJ"
-  me.username = "ROOT-JAHID"
+  me.username = "ROOT JAHID"
   me.age      = 18
   me.job      = "Python Developer | Data Scientist"
   me.hobbies  = []string{"coding", "Fucking", "music", "Learning", "gaming"}
@@ -84,10 +84,10 @@ func main() {
 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LMNx9-JOHNY&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LMNx9-JOHNY&theme=dark&hide_border=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RootJahidXploit&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RootJahidxploit&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMNx9-JOHNY&theme=dark&hide_title=true&layout=compact&langs_count=8" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootJahidXploit&theme=dark&hide_title=true&layout=compact&langs_count=8" />
 </p>
