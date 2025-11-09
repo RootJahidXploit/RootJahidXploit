@@ -26,7 +26,7 @@ func main() {
   me.username = "ROOT JAHID"
   me.age      = 18
   me.job      = "Python Developer | Data Scientist"
-  me.hobbies  = []string{"coding", "Fucking", "music", "Learning", "gaming"}
+  me.hobbies = []string{"coding", "music", "learning", "gaming", "cybersecurity"}
   
   fmt.Println(me)
 }
