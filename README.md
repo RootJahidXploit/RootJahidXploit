@@ -1,5 +1,7 @@
+Hi There! 👋 I'm ROOT JAHID
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LMNx9-JOHNY&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="ROOT-JAHID"/>
+  <img src="https://komarev.com/ghpvc/?username=RootJahidXploit&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="ROOT-JAHID"/>
 </p>
 
 🚀 About Me
@@ -20,11 +22,11 @@ type Person struct {
 func main() {
   var me = new(Person)
   
-  me.name     = "Jahid Hasan"
+  me.name     = "JAHID TAJ"
   me.username = "ROOT-JAHID"
   me.age      = 18
   me.job      = "Python Developer | Data Scientist"
-  me.hobbies  = []string{"coding", "anime", "music", "guitar", "gaming"}
+  me.hobbies  = []string{"coding", "Fucking", "music", "Learning", "gaming"}
   
   fmt.Println(me)
 }
@@ -33,9 +35,9 @@ func main() {
 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/ROOT_JAHID"><img src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"></a>
-  <a href="mailto:rootjahid@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/ROOT-JAHID"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://t.me/ROOTJAHID"><img src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"></a>
+  <a href="mailto:rootjahid.biz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/ROOTJAHIDXPLOIT"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 💻 Tech Stack
